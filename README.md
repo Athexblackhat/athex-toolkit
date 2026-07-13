@@ -308,11 +308,11 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 
 #### This Tool Must Run As ROOT !!!
 
-    git clone https://github.com/CodingRanjith/hackingtoolkit.git
+    git clone https://github.com/Athexblackhat/athex-toolkit.git
     
-    chmod +x hackingtoolkit
+    chmod +x athex-toolkit
     
-    cd hackingtoolkit
+    cd athex-toolkit
     
     sudo python3 htk.py
 
@@ -324,14 +324,6 @@ GNU General Public License v3.0
 
 * This software is provided for educational use only! The author will not be held responsible for any illegal activity by you. By using this software, you agree to these terms.
 
-## Donate!
-
-### PayPal: https://bit.ly/3QKknix
-
-#### Thanks to Original Author of the Tools used in hackingtoolkit
-
-<img src ="https://img.shields.io/badge/Important-notice-red" />
-<h4>Please Don't Use for illegal Activity</h4>
 
 #### Don't Forgot to share with Your Friends 
 ### The new Update get will soon stay updated
